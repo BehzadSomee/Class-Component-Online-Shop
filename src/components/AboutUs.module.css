@@ -1,0 +1,13 @@
+.container {
+    min-height: 100vh;
+    margin: 50px;
+}
+
+.container ul {
+    margin-top: 10px;
+}
+
+.container li {
+    list-style: none;
+    line-height: 1.5rem;
+}
